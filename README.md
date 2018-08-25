@@ -1,2 +1,3 @@
 Dva
 Direktno
+Jos jednom
