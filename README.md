@@ -1,2 +1,0 @@
-Jedan
-Develop 1
