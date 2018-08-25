@@ -1,1 +1,2 @@
 Dva
+Direktno
