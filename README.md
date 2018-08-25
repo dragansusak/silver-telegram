@@ -1,1 +1,1 @@
-Sedma feature 4
+Sedma feature 6
