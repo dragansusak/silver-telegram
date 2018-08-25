@@ -3,4 +3,4 @@ Direktno
 Jos jednom
 Pa jos jednom
 
-Jedan
+Jedan 1
