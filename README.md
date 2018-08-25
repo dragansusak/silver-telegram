@@ -1,2 +1,2 @@
 Osma feature 2
-Sedma feature 5
+Sedma feature 6
